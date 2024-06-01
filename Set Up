@@ -1,0 +1,23 @@
+# Explanation of the Code
+## Password Validation:
+
+The password_complexity_checker function takes a password as input and evaluates it against the defined criteria.
+It returns the strength of the password (as a percentage) and feedback on each criterion.
+User Interface (Optional):
+
+The tkinter library is used to create a simple GUI.
+The check_password function is called when the user clicks the "Check Password" button. It displays the strength and feedback using a message box.
+Running the Code
+Without GUI:
+
+Save the non-GUI code to a file (e.g., password_checker.py) and run it using:
+python cyber1.py
+
+This setup provides a simple yet effective tool for users to check and improve their password strength, enhancing their overall digital security.
+
+
+
+
+
+
+
